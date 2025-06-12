@@ -1,0 +1,11 @@
+Date,Precipitation,Temperature,name,Station,Humidity,WindSpeed,Category
+1/1/2019 0:00,0.5,22.0,Bibek S,A,65,5.2,Light
+1/1/2019 1:00,20.5,21.8,Raj B,B,70,3.8,Moderate
+1/1/2019 2:00,0.6,21.5,Kumar,C,75,2.4,Light
+1/1/2019 3:00,23.4,21.2,Bibek,D,68,6.0,Heavy
+1/1/2019 4:00,0.0,21.0,Priya,E,80,1.5,None
+1/1/2019 5:00,,20.8,Sophia,F,85,0.0,None
+1/1/2019 6:00,15.7,22.3,John,G,78,4.6,Moderate
+1/1/2019 7:00,30.0,23.0,Bibek C,H,60,8.2,Heavy
+1/1/2019 8:00,0.0,22.0,David,I,55,2.1,None
+1/1/2019 9:00,18.5,21.9,Sara,J,62,3.0,Moderate
