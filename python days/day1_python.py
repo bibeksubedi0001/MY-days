@@ -22,3 +22,4 @@ print(s/d,s//d)
 print(s//d)
 sum= s*d
 print(sum)
+print("sum is",sum)
